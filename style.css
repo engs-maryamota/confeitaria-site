@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif, system-ui;
+}
+
+:root {
+  --bg-page: #FAF8F9;
+  --bg-card: #FFFFFF;
+  --rosa-claro: #FDE8ED;
+  --rosa-medio: #F8BBD0;
+  --rosa-principal: #F48FB1;
+  --text-color: #5A4A4E;
+  --text-light: #9E8A8F;
+  --radius-card: 24px;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-color);
+}
+
